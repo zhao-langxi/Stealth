@@ -1,28 +1,45 @@
-# Stealth — case study
+# Stealth
 
-[PLACEHOLDER — brief plain description of what Stealth was, confidentiality-permitting. One or two sentences. Do not invent product claims.]
+**Private work-in-progress. Not a hiring artifact.**
 
-This repo is a portfolio / case-study artifact. It is **not** a live product.
+This repository is a **placeholder** on the public GitHub profile. It does not describe a live product, an open-source project, or a recruiting pitch. The name is not an invitation to collaborate or invest.
 
-## Role
+---
 
-- **Title:** GTM (Go-to-Market) internship — [PLACEHOLDER — confirm exact title as used publicly]
-- **Dates:** [PLACEHOLDER — start / end, month–year only if that is what you want public]
-- **What was actually done:** [PLACEHOLDER — founder fills from LinkedIn / lived experience; bullets preferred over vague summaries]
-- **Confidentiality note:** Some company and product details stay private by agreement or prudence. This page omits what cannot be stated plainly. No “stealth mystique” framing — just what is accurate and OK to share.
+## What this is
 
-## Research throughline
+- A reserved repo slot with **no public case study** at this time
+- Some internship and product details stay private by agreement or prudence
+- No stealth-startup narrative ... just an honest boundary on what is public
 
-Which research connected and why it mattered for GTM / startup work (not a generic “did research” list):
+---
 
-- **Candidate A — Women2050 / ATHLETE / ProHealth:** [PLACEHOLDER — founder must confirm **if** and **how** this connects to the Stealth role, **and** what is OK to say publicly. Do not paste IRB materials, clinical framing, or participant data. See `docs/privacy-notes.md`.]
-- **Candidate B — fraud detection research:** [PLACEHOLDER — founder confirm whether this connects, how, and public-safe wording]
-- **Throughline:** [PLACEHOLDER — what made the research valuable specifically in a GTM / startup context; write only after the candidates above are confirmed]
+## If you are hiring
 
-## What I won't invent
+Use the public surfaces instead:
 
-Metrics, outcomes, company internals, customer names, and unconfirmed research↔role links are omitted until the founder confirms them. Placeholders above are intentional gaps, not drafts.
+| Resource | URL |
+| --- | --- |
+| Resume (PDF) | [jlzhao.pages.iu.edu/resume.pdf](https://jlzhao.pages.iu.edu/resume.pdf) |
+| Essays + research notes | [zhao-langxi.github.io/zhao-langxi](https://zhao-langxi.github.io/zhao-langxi/) |
+| Technical portfolio | [jadexzhao.github.io/jadexzhao](https://jadexzhao.github.io/jadexzhao/) |
+| ServeIT clinic work | [serveit.luddy.indiana.edu](https://serveit.luddy.indiana.edu/) |
+
+**Identity:** Jade Zhao · Informatics @ Indiana University · Luddy HIEP Scholar · Expected May 2027
+
+---
+
+## What will not appear here
+
+- Company internals, customer names, or unverified outcome metrics
+- Clinical framing, participant data, or IRB materials
+- Links to private lab repos or private landscape work
+- A reconstructed internship narrative invented for portfolio polish
+
+See [`docs/privacy-notes.md`](docs/privacy-notes.md) before adding anything.
+
+---
 
 ## Status
 
-Pre-content scaffold. Narrative blocked on founder details.
+Placeholder only. Consider archiving or unpublishing from profile pins if it adds more confusion than signal.
