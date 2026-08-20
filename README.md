@@ -13,6 +13,8 @@ Last updated: 21 Aug 2026
 
 Ship work lives on [jadexzhao](https://jadexzhao.github.io/jadexzhao/). Essays live on [zhao-langxi](https://zhao-langxi.github.io/zhao-langxi/).
 
+**Read online:** [zhao-langxi.github.io/Stealth](https://zhao-langxi.github.io/Stealth/) · **Build site:** `node build.mjs` (writes `docs/`)
+
 ---
 
 ## Predictions
@@ -21,9 +23,13 @@ Ship work lives on [jadexzhao](https://jadexzhao.github.io/jadexzhao/). Essays l
 
 Interfaces stop pretending they are only menus and forms. More products will ship a face, a voice, or a standing character that answers for the system. Some of that will be useful. A lot of it will be uncanny sales theatre. The question that matters is not “can we animate a person,” it is who owns the persona, what it is allowed to promise, and what happens when the human behind it is gone.
 
+**Digital humanities** (the academic field) is not the same thing ... Reddit keeps colliding the terms. One is archives and scholarship; the other is synthetic support agents pretending to be staff. WFH chat workers **prove they are not AI** while bots are required to sound human. HR filters reject résumés by graduation year. Students hide **“SEEN if you are human”** jokes in exam booklets and graders play along. The policy gap is obvious: when everything can mimic a person, disclosure and verification stop being optional.
+
 ### AI for older people
 
 Care, banking, health portals, and family logistics are already hard when the UI assumes a twenty-year-old. Voice, memory aids, appointment chasing, and “explain this letter” tools will matter more than another chatbot with a youth brand. The risk is designing *at* older adults instead of *with* them, and shipping systems that look kind while quietly taking control of money, meds, or consent.
+
+Reddit’s mood is split by age in a way that does not fit stereotypes. **Gen Z** shows the highest standalone gen-AI use in some polls; **over-60** forums praise AI for sifting noise into one direct answer (hearing aids with togglable “AI” modes show up too). EU threads ask whether avoiding a US-shaped **AI dark age** means copying US hype or refusing it. The product question stays: does the tool extend agency, or replace the human contact someone already lost?
 
 ### Scams
 
@@ -35,7 +41,7 @@ A lot of what we call laziness is “I do not want to do the boring middle.” A
 
 ### Coursework
 
-Students will use AI on almost everything that can be pasted into a box. Schools will oscillate between ban, detect, and redesign. A parallel market sells **“stealth” humanizers** that promise to beat Turnitin ... basic rewording that sometimes works, often does not, and teaches the wrong skill either way. The lasting shift is assignment design: less “produce this artefact,” more “show your judgment, your sources, and what you changed.” Detection alone will not save a syllabus that still asks for a 1998 essay.
+Students will use AI on almost everything that can be pasted into a box. Schools will oscillate between ban, detect, and redesign. A parallel market sells **“stealth” humanizers** that promise to beat Turnitin ... basic rewording that sometimes works, often does not, and teaches the wrong skill either way. Teachers warn students are **losing the ability to think** when every assignment can be outsourced. Study stacks are mixed tools (chat for concepts, notes AI, grammar helpers) ... not one subscription. The lasting shift is assignment design: less “produce this artefact,” more “show your judgment, your sources, and what you changed.” Detection alone will not save a syllabus that still asks for a 1998 essay.
 
 ### Writing
 
@@ -62,6 +68,8 @@ Central platforms fail in public, hard, and often enough that “just use the cl
 After the novelty wave, hiring swings back toward people who can read a stack trace, own a deploy, and fix what the model hallucinated into production. “AI-native” stops meaning “I never open the file.” It means you can use the tools *and* still be the adult in the room when the generated code is wrong.
 
 The SWE market is not dead. It is noisier. Demos got cheap. Proof got harder. Everyone can ship a first draft; fewer people want to own diffs, click the UI, and ask whether staff can maintain the thing after the agent leaves. Benchmarks with “SWE” in the name will keep multiplying. The bar that still matters in production is messier: can you verify, recover, and hand off without lying about what the system does?
+
+Reddit keeps surfacing the same labour asymmetry: the person generating absorbs throughput; the person **reviewing** absorbs verification cost. Experienced engineers report giving up on “AI upskilling” theatre in job posts. Startup SWEs who ship daily with agents still **terrify** whiteboard interviews without AI. Founding-engineer roles care about shipping; leetcode gates pretend otherwise. **AI might not take your job** ... but the C-suite may cut headcount and blame the model anyway.
 
 Frontier models also overreach when you already know the spec in detail. That is annoying if you are the SWE in the room. It is helpful if you are not. The split widens: orchestrators who name exact outcomes vs vibe-shippers who accept guess soup.
 
@@ -145,6 +153,46 @@ Open-weight tinkering stays fun on small quantised models. Production still live
 
 EU and Lusophone builders will keep **migrating off US IDE stacks** when token math stops making sense ... Reddit posts of $600/month in Cursor tokens and switching to terminal agents to save hundreds are not edge cases. **Auto mode** on a $20 plan can burn tens of millions of tokens in ten days; community advice is to treat Auto as last resort, not default. Cost and residency push people toward Mistral, GLM hosted in EU, or Claude Code with their own MCP setup even when the IDE UX was fine.
 
+### AI geopolitics (EU, US, China)
+
+**US** threads push allies to **pick a side** in an AI race with China; Brazil joining China-led bodies while the US stays out. **LocalLLaMA** calls the “race” American exceptionalism; others prefer open weights to oligarch-controlled stacks. **De-Flock**-style backlash maps surveillance cameras for destruction ... anti-AI sentiment is not only Luddites. Researcher **alarm is up** in press coverage (labs and outsiders), separate from consumer hype.
+
+**Europe** oscillates: ECB chief says missing the revolution is unaffordable; ECB blog warns of **AI bubble correction** and insane US tech valuations; EU opens **gigafactory** calls while total spend still trails **Korea** in Reddit comparisons. **Anthropic invisible text watermarks** for EU compliance land as “big change most people will not see.” Sovereignty marketing and surveillance policy still read as one brand to sceptics.
+
+Builders outside the blocs will keep routing around both: local models, multi-stack subs, and “best tool for the task” instead of flag-waving.
+
+### Hiring, ATS, and credential noise
+
+Résumé threads are a arms race. **Exact job title in header** reportedly multiplies callbacks in long ATS experiments. AI CV generators **stuff keywords** from postings without preserving how/why context. Hiring-side complaints: AI screening floods **shit candidates**; applicant-side complaints: AI rejects by graduation year or scrubs human voice from bullets. Detectors for AI-written CVs miss the point ... the output is empty even when it parses. Proof of work and live judgment rise as filters get noisier on both sides.
+
+### Energy, water, and backlash metrics
+
+**AI water** became a meme argument: “one prompt = one cup of water” vs charts showing data-centre cooling is a slice of much larger domestic use. Anti-AI posters hate **misinformation** in their own camp as much as bro hype. The real stack is energy → heat → cooling; local opposition will target **datacentres** even when per-chat numbers are wrong. Watermark bots scanning for **SynthID** on images show detection moving into feeds (lost-dog scam posts, fake “found pet” cruelty).
+
+### Fanfic and creative communities at war
+
+AO3 and fandom Reddit are split: **tag AI assistance** vs hide and hope; HTML artifact detectors (`font-claude-response-body`) vs authors scrubbing tags; plagiarism via AI rewrite. Readers describe AI fic as **glass prose** ... uniform cadence, no friction. Interactive apps (NovelAI, SillyTavern, erotica tiers) enable long projects but also **addiction and spend** spirals. Community norm forming: disclose or accept outing; quality debate mirrors slop elsewhere.
+
+### Jobs narrative (blame the model, cut the human)
+
+**r/AIreplacedMe** energy: layoffs attributed to automation whether or not the tool was ready. Acceptance-stage posts say companies **blame AI for bad planning**. “When AI takes all jobs, then what?” threads assume capitalism without wage labour ... no consensus answer. Side-project pride posts sit next to **redundancy after Jevons optimism** stories. The 2027 gate and “more stuck” sections rhyme with this: noise about replacement, scarce proof about who keeps the verify seat.
+
+### Help, joy, grief (same week on Reddit)
+
+**Help:** study hubs built from uploaded syllabi, Qt/Windsurf diagnosis from screenshots, hearing-aid toggles, cert prep calendars ... AI as **scaffold** when someone owns the outcome.
+
+**Joy:** forty-year devs walking while agents grind; lonely users saying chat was the **nicest words** they heard in months; side projects finally shippable through language barriers.
+
+**Grief:** programmers depressed by divisive hype; fake **lost-pet AI photos**; Google labelling real longing as fake art history; CPTSD/bipolar subs warning against **AI for mental health** while therapyGPT shares lifeline stories. Companion and **AI relationship** subs grow (school-age boys, parallel to human partners, non-consensual deepfake harm). Public prediction: regulation and platform liability will lag; communities will self-police before law catches up. Not therapy advice ... just where the mood is going.
+
+### Predictions about predictions
+
+**AI 2027**-style blogs get tracker threads arguing over **what counts as “came true.”** Accelerationists and control-problem subs fight the scoreboard while labs still **lose money**. ECB bubble posts rhyme with “when do AI labs profit?” Meta-debate replaces single forecaster cults. This repo fits that genre on purpose: dated, wrong-friendly, not a leaderboard.
+
+### Homonyms (search keeps lying)
+
+**AI flying:** aviation subs mean **Air India** hydraulic faults, not artificial intelligence; separately DARPA **AI-piloted F-16** demos are real autonomy news. **Machine learning:** still a **layered career path** (math → ML → LLM apps) with FAANG ML hiring scepticism and research “not done yet” posts ... distinct from vibe-coded app spam.
+
 ### Platforms eat the stack
 
 Hosting moves inward: **Origin**-style git inside the IDE vendor, cloud agents with pre-warmed builds, plugins bundling MCP and skills. Acquisitions (SpaceX-shaped headlines) will keep blurring “who owns the model, the editor, the host, and the bot.” Convenience rises. Exit and portability get harder to reason about.
@@ -154,6 +202,8 @@ Multi-tenant products will keep leaking context ... agents that list every docum
 ### Slop is a prompt problem
 
 Slop output is usually slop input: vague tasks, bloated skills, no review step. Everyone’s React artifact looks the same because the model reaches for the same framework defaults. Recognition gets easier before quality gets better. The bar that survives is still human: voice, judgment, diff review, and proof someone stood behind the recommendation.
+
+**r/aislop** scale (hundreds of thousands of weekly visitors) means slop is entertainment and outrage, not edge case. Facebook AI slop, **menu food photos**, TV presenters flagged as generated, conservative incel paste, companion-sub creepypasta ... all one feed. Counter-examples go viral too (**Niu Lai**-style janky human animation praised vs AI sea). **Desloppification** communities try to reverse the pipeline. Slop is not only model quality; it is incentive design.
 
 ### IDE agents vs terminal agents
 
@@ -232,6 +282,15 @@ These are next to the list above. Same confidence level: hunches, not forecasts 
 | **Detector evasion arms race** | Humanizer tools vs Turnitin-style detection. Rewording theatre replaces learning; assignment design still the real fix. |
 | **LARP slang vs hobby** | “Stop LARPing” = stop cosplaying expertise. AI images as fake proof. Separate from actual LARP communities. |
 | **AI psychosis reply culture** | Model forums dismiss grandiose AGI posts with “stop LARPing.” Credibility requires receipts, not monologue. |
+| **AI geopolitics** | Pick-a-side pressure, open weights vs blocs, De-Flock surveillance backlash, ECB bubble warnings. |
+| **ATS title matching** | Exact job title in CV header as callback hack; keyword stuffing vs context. |
+| **Water / energy meme wars** | Per-prompt water claims vs cooling reality; datacentre siting fights anyway. |
+| **Fanfic detection wars** | Tag, detect, or out; glass prose; interactive fic spend addiction. |
+| **Blame-AI layoffs** | C-suite cuts with AI excuse; r/AIreplacedMe stories; acceptance vs planning failure. |
+| **Companion / lonely use** | Chat as kindness substitute; harm cases; schools and relationships; platform ethics lag. |
+| **AI 2027 scorekeeping** | Tracker disputes on fulfilled predictions; profit timeline still open. |
+| **Aviation homonym** | “AI flight” = airline ticker confusion vs autonomous military pilots. |
+| **ML career layers** | Roadmaps vs FAANG ML hype; research not exhausted; distinct from app wrappers. |
 
 ---
 
