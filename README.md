@@ -191,6 +191,10 @@ These are next to the list above. Same confidence level: hunches, not forecasts 
 | **Chat Control vs sovereign AI** | Scanning law extensions clash with EU-hosted AI marketing. Trust splits on residency vs surveillance. |
 | **BuyFromEU + Le Chat** | Consumer EU AI as sourcing assistant, not just chat ... citation trust meets shopping politics. |
 | **€20 split stack** | Paid IDE for code + free tier for research. Model routing by task, not one Auto button. |
+| **Regional Start plans** | Geo entry tiers with narrow model lists. Quota shock posts when “affordable” meets 9-to-5 dev. |
+| **EU AI startup lists** | Agent-startup threads name Mistral; consumer threads still want US feature parity. |
+| **BuyFromEU grassroots GTM** | “Switch your family to Le Chat” ... politics and discovery, not app store SEO. |
+| **Wrapper funding confusion** | Founders ask why prompt-thin AI startups raise. Answer is rarely the demo. |
 | **Citation trust** | Buy-EU and research users pick models that hallucinate fewer papers. Source reliability becomes consumer marketing. |
 | **Inbox agents** | Read/draft email from chat feels magic; consent and credential scope become the product risk. |
 | **Prove you're human** | Support and WFH chat jobs invert the Turing test. Real people penalised for sounding "too AI." |
