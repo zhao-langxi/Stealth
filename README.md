@@ -111,7 +111,9 @@ AI support bots will keep deflecting until email escalation with a ticket ID bec
 
 A lot of European energy will go into **compliance wrappers**: AI without customer data leaving the region, audit trails, document AI instead of novelty chat. That is necessary and not the same as product innovation. Builders targeting Lusophone Africa, family NAS photo search, condominium platforms in Rust ... care about cost, residency, and maintainability more than headline benchmarks.
 
-**Le Chat** is the consumer face of that EU story ... and Reddit still calls it that on purpose after rebrand whiplash. Users who switched from ChatGPT often cite **fewer fake citations** on research questions and better feel on **translation nuance**. That is trust on sources, not vibes. Some use it to **organise thoughts before therapy** or summarise long transcripts ... aid, not replacement. Email-agent hooks (inbox, draft replies) are the kind of EU productivity feature that feels useful until you ask who holds the OAuth keys.
+**Le Chat** is the consumer face of that EU story ... and Reddit still calls it that on purpose after rebrand whiplash. **Mistral Vibe** landed as the corporate rename and got mocked twice: the French pun died, and “vibe” already means slop in dev slang. **BuyFromEU** threads treat Le Chat as a shopping and sourcing assistant (including jokes about where “the centre of Europe” is). Users who switched from ChatGPT often cite **fewer fake citations** on research questions and better feel on **translation nuance**. That is trust on sources, not vibes. Some use it to **organise thoughts before therapy** or summarise long transcripts ... aid, not replacement. Email-agent hooks (inbox, draft replies) are the kind of EU productivity feature that feels useful until you ask who holds the OAuth keys.
+
+The same EU story has a regulatory fork. **Chat Control** (scanning regimes extended toward 2028, Chat Control 2.0 anxiety on r/degoogle and r/StopChatControlEU) sits awkwardly next to “sovereign AI” marketing. Reddit argues E2EE exemptions, democratic process failures (majorities against, law passes anyway), and the irony that strict privacy rules for builders coexist with state-side scanning narratives. EU-hosted chat products gain positioning from residency ... until users ask whether compliance theatre and surveillance law are the same customer promise.
 
 The same year, WFH chat workers report spending half their shift **proving they are not AI** to suspicious customers. Digital humans cut both ways: users want a person; platforms want automation; humans get treated like bots. Rebrands that kill a name people loved will keep getting ignored in community slang.
 
@@ -136,6 +138,8 @@ Reddit keeps asking the same question in different wrappers: Cursor or Claude Co
 At ~$20/month the debate is **usage limits**, not feature checklists. People come back when router + Composer/Grok stretch a plan; they leave when **Auto** or frontier models eat half the cycle in ten days (62M tokens is a real post). Valuation arguments ($60B and similar) will cite agentic IDE timing and in-product interaction data. Acquisition threads ask whether the buyer wanted the product or the **interaction log**. Whether that feels fair to a student on a $60 plan is a different conversation.
 
 The “worth coming back in 2026?” posts answer themselves: yes if discrete tasks + daily-driver models fit your workload; no if you expected one sub to replace judgment, sales, and handoff.
+
+**€20/month EU stack** that keeps showing up: **Cursor Pro** for repo work on a named composer model only, plus **free Gemini Flash** (or similar) for chat and research ... one paid IDE bundle, one zero-cost generalist, strict separation so Auto does not eat the coding quota. Same pattern as “don’t recommend Auto before you max usage.”
 
 **What Reddit actually praises:** integrated toolchain UX, first-party / bundled models for mileage, cloud agents and automations that “just work,” richer file and terminal context, selection-based debug chats. **What Reddit actually warns:** 9-to-5 dev use can burn a lower tier in days; agents that **mark security findings fixed** when they are not; regional plans that lock you to one vendor model; acquisition headlines that make people ask who trains on their keystrokes. **Origin** as git hosting reads as land-grab for the whole developer stack, not just another feature.
 
@@ -179,6 +183,10 @@ These are next to the list above. Same confidence level: hunches, not forecasts 
 | **Valuation vs user anger** | Big-number acquisition headlines vs support loops and quota fine print ... same product, two audiences. |
 | **Reddit recommendation loops** | “Is X worth it?” threads recycle every pricing change. Answer always hinges on task shape and review habits. |
 | **Le Chat vs rebrand** | EU users keep the old name when the corporate rename feels cringe. Cultural product identity beats generic “AI assistant.” |
+| **Mistral Vibe rename** | Pun + anti-slop backlash. Community keeps saying Le Chat regardless of product page. |
+| **Chat Control vs sovereign AI** | Scanning law extensions clash with EU-hosted AI marketing. Trust splits on residency vs surveillance. |
+| **BuyFromEU + Le Chat** | Consumer EU AI as sourcing assistant, not just chat ... citation trust meets shopping politics. |
+| **€20 split stack** | Paid IDE for code + free tier for research. Model routing by task, not one Auto button. |
 | **Citation trust** | Buy-EU and research users pick models that hallucinate fewer papers. Source reliability becomes consumer marketing. |
 | **Inbox agents** | Read/draft email from chat feels magic; consent and credential scope become the product risk. |
 | **Prove you're human** | Support and WFH chat jobs invert the Turing test. Real people penalised for sounding "too AI." |
