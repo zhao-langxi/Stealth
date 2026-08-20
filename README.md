@@ -45,6 +45,30 @@ Personalisation will get sharper and weirder. Copy, creative variants, and audie
 
 Access was never only “do you have a laptop.” It is bandwidth, literacy, language, disability, trust, and whether the system was built for you. AI layers on top of that: people who can prompt, verify, and afford tools pull further ahead; people who cannot get left with worse defaults, more scams, and less human help. Public-interest builds that ignore this will widen the gap while claiming to close it.
 
+### The 2027 gate
+
+Graduation years become sorting events again. Class of 2027 walks into a market that has already spent two years arguing whether juniors are obsolete. Some doors close because teams assume AI replaced the first hire. Some open for people who can show judgment, shipped work, and systems sense, not only a prompt log. The gate is not “AI or no AI.” It is who still gets a first serious seat.
+
+### Crashes like GitHub and CrowdStrike
+
+Central platforms fail in public, hard, and often enough that “just use the cloud default” stops sounding like maturity. Outages and bad updates become career events, not IT trivia. Teams that can work offline, recover, and explain what broke will look more valuable than teams that only know the happy path inside someone else’s uptime.
+
+### People want traditional coders
+
+After the novelty wave, hiring swings back toward people who can read a stack trace, own a deploy, and fix what the model hallucinated into production. “AI-native” stops meaning “I never open the file.” It means you can use the tools *and* still be the adult in the room when the generated code is wrong.
+
+### More stuck
+
+More graduates, career-switchers, and mid-level people freeze between tools: too automated to feel skilled, not automated enough to feel safe. Waiting for the market to clarify becomes its own trap. The stuckness is not laziness. It is a missing bridge between tutorials and trusted ownership.
+
+### More entrepreneurial
+
+When institutions hire slower and middle work gets automated, more people try to build sideways: tiny products, consulting, campus tools, family-business tech, public-interest builds. Not everyone becomes a founder. More people practise founder habits ... ship small, talk to users, keep the handoff maintainable ... because waiting for a perfect job posting stops working.
+
+### Coding in Chinese
+
+More serious building happens in Chinese: docs, comments, issues, model prompts, and local tooling that assumes 中文 first. English-only stacks keep looking global while missing where a lot of the work and users already are. Bilingual builders (and models that do not flatten tone into generic English) get an edge that pure English pipelines will keep underestimating.
+
 ---
 
 ## Also watching
