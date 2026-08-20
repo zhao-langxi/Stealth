@@ -2,7 +2,7 @@
 
 **Private work-in-progress. Not a hiring artifact.**
 
-This repository is a **placeholder** on the public GitHub profile. It does not describe a live product, an open-source project, or a recruiting pitch. The name is not an invitation to collaborate or invest.
+A **placeholder** on the public GitHub profile. It does not describe a live product, an open-source project, or a recruiting pitch. The name is not an invitation to collaborate or invest.
 
 ---
 
@@ -10,13 +10,11 @@ This repository is a **placeholder** on the public GitHub profile. It does not d
 
 - A reserved repo slot with **no public case study** at this time
 - Some internship and product details stay private by agreement or prudence
-- No stealth-startup narrative ... just an honest boundary on what is public
+- An honest boundary on what is public ... not a stealth-startup narrative
 
 ---
 
 ## If you are hiring
-
-Use the public surfaces instead:
 
 | Resource | URL |
 | --- | --- |
