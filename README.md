@@ -69,6 +69,8 @@ When institutions hire slower and middle work gets automated, more people try to
 
 More serious building happens in Chinese: docs, comments, issues, model prompts, and local tooling that assumes 中文 first. English-only stacks keep looking global while missing where a lot of the work and users already are. Bilingual builders (and models that do not flatten tone into generic English) get an edge that pure English pipelines will keep underestimating.
 
+Prompting in 中文 can also sharpen the ask. You stop reaching for the same English boilerplate the model has seen a million times. You name the constraint in the language you actually think in. Comments and commit messages in Chinese keep the human thread visible when the generated code is English. Not magic ... just less generic slop when the model has to meet you where you are.
+
 ### Influencers
 
 Creator economies get AI-soaked on every side: script drafts, thumbnails, comments, fake engagement, and synthetic “people” who never filmed a day. Audiences get harder to trust and easier to farm. The people who still matter will be the ones whose face, judgment, and receipts hold up when the feed is full of generated twins. Brands will keep buying reach. The scarce thing becomes proof that a human stood behind the recommendation.
