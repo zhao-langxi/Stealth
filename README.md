@@ -7,7 +7,7 @@ A dated list of where I think AI is going to land hard, written so I can be wron
 **Name note:** I grabbed the repo name before the files showed up. In Cursor Discord, “stealth” usually means **stealth models** ... codename releases (Cheetah, Sonic, Polaris) before xAI ships the real Grok name. Different thing. This repo is the foresight scrapbook, not a model or an overlay app.
 
 Jade Zhao · Informatics @ Indiana University · class of 2027  
-Last updated: 20 Aug 2026
+Last updated: 21 Aug 2026
 
 Ship work lives on [jadexzhao](https://jadexzhao.github.io/jadexzhao/). Essays live on [zhao-langxi](https://zhao-langxi.github.io/zhao-langxi/).
 
@@ -89,6 +89,48 @@ Providers will keep shipping **paid codename models** before the marketing name 
 
 That pattern will spread: fast anonymous models for simple passes, official names once the benchmark screenshot is ready. Fine for disposable tasks. Risky if you treat “I do not know which model” as “nobody saw this.” Auto-routing through stealth models will keep privacy-paranoid builders nervous for good reason.
 
+### How people actually ship with agents
+
+The hype is “one prompt, whole app.” The workable pattern is boring: **discrete tasks with exact outcomes**, a root spec when things connect, diff review before merge, manual UI click before trust. Routers will keep pushing model mixes ... routine on cheaper models, planning on comprehension models, execution on heavier ones, debug on visual models. “Fast mode” is mostly queue priority, not dumber thinking.
+
+Long-running **`/goal`**-style passes will tempt people to automate the whole repo. They will burn credits and drift without a written “done” bar. Context poisoning shows up when one agent carries everything; subagents and compact-between-chunks help. There is no perfect memory ... rules files, handoffs, and human verification are the harness.
+
+Prompting in 中文 fits here too: 不要改 X · 只做 Y · 完成标准是什么 ... forces specificity instead of English template soup.
+
+### Build cheap, discover expensive
+
+Discord is full of people who shipped ten apps and made zero dollars. Dev and sales are different jobs. Clients pay when staff can run the thing on Tuesday without calling the builder ... not when the demo looked impressive in a screen recording.
+
+Influencer and streamer **barter** (build something, they mention you) becomes a modern distribution hack for tiny products. Enterprise discovery still runs on trust, handoffs, and “does anyone know this exists.” Agent tools widened the first gap and did not fix the second.
+
+### Support that loops
+
+AI support bots will keep deflecting until email escalation with a ticket ID becomes folk knowledge. Billing confusion, prorated cycles, on-demand charges, and “student equals pro” marketing that does not match CLI quotas ... all of that gets worse when the first responder is a bot named like a person. Chargebacks become the user’s escalation path when human support feels enterprise-only. Bad look for the whole category.
+
+### EU, compliance, and real products
+
+A lot of European energy will go into **compliance wrappers**: AI without customer data leaving the region, audit trails, document AI instead of novelty chat. That is necessary and not the same as product innovation. Builders targeting Lusophone Africa, family NAS photo search, condominium platforms in Rust ... care about cost, residency, and maintainability more than leaderboard screenshots.
+
+Open-weight tinkering stays fun on small quantised models. Production still lives in cloud agents until local models are good enough for handoffs you would sign your name to.
+
+### Platforms eat the stack
+
+Hosting moves inward: **Origin**-style git inside the IDE vendor, cloud agents with pre-warmed builds, plugins bundling MCP and skills. Acquisitions (SpaceX-shaped headlines) will keep blurring “who owns the model, the editor, the host, and the bot.” Convenience rises. Exit and portability get harder to reason about.
+
+Multi-tenant products will keep leaking context ... agents that list every document library, not just yours. “Upload worked” is not isolation. That class of bug becomes a trust event, not a support ticket.
+
+### Slop is a prompt problem
+
+Slop output is usually slop input: vague tasks, bloated skills, no review step. Everyone’s React artifact looks the same because the model reaches for the same framework defaults. Recognition gets easier before quality gets better. The bar that survives is still human: voice, judgment, diff review, and proof someone stood behind the recommendation.
+
+### IDE agents vs terminal agents
+
+Reddit keeps asking the same question in different wrappers: Cursor or Claude Code or a $20 chat sub? The split is not “same tools.” **IDE agents** won on plan → review → execute inside a repo people already live in. **Terminal agents** won on long autonomous passes and harness people who think in shell first. Neither replaces diff review.
+
+At ~$20/month the debate is **usage limits**, not feature checklists. People come back when router + Auto + Composer stretch a plan; they leave when frontier models eat the cycle in a weekend. Valuation arguments ($60B and similar) will cite agentic IDE timing and in-product interaction data. Whether that feels fair to a student on a $60 plan is a different conversation.
+
+The “worth coming back in 2026?” posts answer themselves: yes if discrete tasks + daily-driver models fit your workload; no if you expected one sub to replace judgment, sales, and handoff.
+
 ---
 
 ## Also watching
@@ -110,6 +152,22 @@ These are next to the list above. Same confidence level: hunches, not forecasts 
 | **Verify bottleneck** | Plan and implement get automated first. Manual UI testing, diff review, and “does this survive handoff?” stay human ... and become the expensive step teams skip until something breaks. |
 | **Model overreach** | When the builder already knows what they want, frontier models guess anyway. Discrete tasks with exact outcomes beat “make it better.” |
 | **Stealth model drops** | Codename → rebrand cycles (Sonic → Grok Code Fast, etc.). Community IDs them fast. Paid stealth ≠ private; logs still exist. |
+| **Router / model routing** | Vendors will advertise task-based routing. Users still need a manual stack: cheap daily driver, stronger model for mess. |
+| **`/goal` and long agents** | Long-lived objectives without sub-outcomes = drift + credit burn. Overarching spec files become mandatory. |
+| **Context poisoning** | One mega-thread forgets types and constraints. Subagents + compact between chunks. |
+| **Accept/Review UX shifts** | Agent-first UIs hide per-hunk accept. Review moves to editor/diff habits humans must keep. |
+| **Student vs pro quotas** | “Same as pro” marketing that does not match CLI/API allowances. Fine-print surprises. |
+| **Payment geography** | International card and billing friction locks out whole regions of builders. |
+| **Phone / voice agents** | Mobile and voice bridges immature. Desktop diff review remains the trust step. |
+| **RLS and agent-built apps** | Security scanners will find tenant leaks in vibe-shipped backends. Sample audits already ugly. |
+| **Referral abuse fallout** | Generous referral programmes die from reseller fraud. Community goodwill cost. |
+| **Grok Bot / digital coworkers** | Bots that sign into your tools. Useful until consent, retention, and “who clicked approve” blur. |
+| **Document AI vs OCR** | Plain OCR vs structured document AI with schema and low-confidence flags. Medical and legal margins matter. |
+| **Open weights vs cloud** | 8B–14B for tinker and autocomplete dreams; cloud for anything with a handoff signature. |
+| **SpaceX-shaped consolidation** | Model + IDE + hosting + bot in one corporate story. Portability anxiety rises. |
+| **$20 plan math** | IDE bundle vs raw chat sub comes down to included usage and router, not headline features. Limit confusion drives churn posts. |
+| **Valuation vs user anger** | Big-number acquisition headlines vs support loops and quota fine print ... same product, two audiences. |
+| **Reddit recommendation loops** | “Is X worth it?” threads recycle every pricing change. Answer always hinges on task shape and review habits. |
 
 ---
 
