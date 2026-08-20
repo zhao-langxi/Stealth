@@ -95,6 +95,14 @@ AI makes LARP cheap. Founder threads, shipped-demo portfolios, “I built this�
 
 The counter-move is boring and already in this doc: diff review, named outcomes, stuff staff can run on Tuesday. Proof beats performance. When everyone can generate the costume, the question is who was in it when something broke.
 
+### AI art (and the label wars)
+
+Reddit is two angry subreddits in a trench coat. **Defending** threads call generated output real art and cite “mistakes” as soul. **Anti** threads call it scraped portfolios, ban it from indie game subs, and warn most of it **goes undetected** in feeds and store pages. The fight is not abstract. It is thumbnails, game jam covers, and “did a human ever touch this?”
+
+**EU AI Act** labelling (in force Aug 2026 in these threads) pushes visible marks on generated image, audio, video, and text. Reddit immediately splits again: pro-label for deepfake identification vs “geoblock Europe” jokes from generators who do not want compliance. Designers note the rules are narrower than panic posts claim ... not every ad touched by AI needs a stamp. Users still argue about **double standards** when state investigation tools get synthetic media while hobbyists get icons on fun pics.
+
+Indie communities will keep **hard-banning** generative assets before the law catches up. Platforms that allow mixed feeds will inherit trust problems. The durable line for builders: if your proof is visual, assume viewers ask **LARP or art or both** ... and ship labels, process, or human-made assets where the audience cares.
+
 ### Stealth models (the industry kind)
 
 Providers will keep shipping **paid codename models** before the marketing name lands. xAI has done this in Cursor: Sonic became Grok Code Fast, Cheetah another Grok code variant, Polaris-alpha on OpenRouter. The community reverse-engineers them anyway ... speed, system-prompt tells, jailbreak behaviour. “Stealth” does not mean private. It means you are paying to beta-test something the vendor has not branded yet, and your code or data still hits their logs.
@@ -126,6 +134,8 @@ A lot of European energy will go into **compliance wrappers**: AI without custom
 **Le Chat** is the consumer face of that EU story ... and Reddit still calls it that on purpose after rebrand whiplash. **Mistral Vibe** landed as the corporate rename and got mocked twice: the French pun died, and “vibe” already means slop in dev slang. **BuyFromEU** threads treat Le Chat as a shopping and sourcing assistant (including jokes about where “the centre of Europe” is). Some posts read like grassroots GTM: use Le Chat yourself, nudge family and friends, make EU choice visible in media. Users who switched from ChatGPT often cite **fewer fake citations** on research questions and better feel on **translation nuance**. That is trust on sources, not vibes. Others still report **feature gap** vs US generalists ... same week, same product, two Reddit moods. Some use it to **organise thoughts before therapy** or summarise long transcripts ... aid, not replacement. Email-agent hooks (inbox, draft replies) are the kind of EU productivity feature that feels useful until you ask who holds the OAuth keys.
 
 The same EU story has a regulatory fork. **Chat Control** (scanning regimes extended toward 2028, Chat Control 2.0 anxiety on r/degoogle and r/StopChatControlEU) sits awkwardly next to “sovereign AI” marketing. Reddit argues E2EE exemptions, democratic process failures (majorities against, law passes anyway), and the irony that strict privacy rules for builders coexist with state-side scanning narratives. EU-hosted chat products gain positioning from residency ... until users ask whether compliance theatre and surveillance law are the same customer promise.
+
+**AI Act** labelling adds another layer: mandatory disclosure on synthetic media, compliance threads in design subs, and fear that Europe regulates display while still under-investing vs Korea on compute. **BuyFromEU** and **eutech** argue both ways ... serious rule-making vs “missed revolution” anxiety. Geoblock-Europe workarounds will show up on generator forums. Serious EU products will bake disclosure into export pipelines instead.
 
 The same year, WFH chat workers report spending half their shift **proving they are not AI** to suspicious customers. Digital humans cut both ways: users want a person; platforms want automation; humans get treated like bots. Rebrands that kill a name people loved will keep getting ignored in community slang.
 
@@ -173,7 +183,9 @@ These are next to the list above. Same confidence level: hunches, not forecasts 
 | **Maintenance and handoffs** | Generated systems that nobody on staff can edit. Same problem ServeIT already fights: ship is easy, leave-behind is hard. |
 | **Translation and language power** | Better machine translation helps ... and can erase dialect, tone, and who gets to speak “standard.” |
 | **Memory and personal agents** | Always-on assistants that know your calendar, inbox, and family. Useful until consent, retention, and subpoenas show up. |
-| **Creative labour and credit** | Training data, likeness, and style theft stay contested. “Inspired by” will not satisfy people whose work trained the model. |
+| **Creative labour and credit** | Training data, likeness, and style theft stay contested. Indie bans and “references vs scraped portfolios” fights keep escalating. |
+| **EU AI Act labelling** | Synthetic media marks in force; confusion on scope; geoblock jokes vs deepfake-identification hope. |
+| **Undetected AI art** | Feeds and game stores full of unmarked assets. Trust moves to community bans before detection catches up. |
 | **Local / offline AI** | Not everyone can or should send life to a cloud. Edge models matter for privacy, cost, and places with bad connectivity. |
 | **Governance theatre** | Policies, watermarks, and safety pages that look complete while product incentives still reward speed over harm reduction. |
 | **SWE-tuned model hype** | Models branded for software engineering will keep underwhelming on real repos while leaderboard screenshots look fine. Terminal tricks and Q&A are not the same as fixing production. |
