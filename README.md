@@ -87,6 +87,14 @@ Prompting in 中文 can also sharpen the ask. You stop reaching for the same Eng
 
 Creator economies get AI-soaked on every side: script drafts, thumbnails, comments, fake engagement, and synthetic “people” who never filmed a day. Audiences get harder to trust and easier to farm. The people who still matter will be the ones whose face, judgment, and receipts hold up when the feed is full of generated twins. Brands will keep buying reach. The scarce thing becomes proof that a human stood behind the recommendation.
 
+### LARP (the slang)
+
+On Instagram and in reply threads, **LARP** rarely means foam swords. It means **poser** ... cosplaying a life, fandom, or expertise you do not actually live. Reddit keeps arguing about the new meaning while the hobby subreddit still runs actual live-action games. Same word, two worlds.
+
+AI makes LARP cheap. Founder threads, shipped-demo portfolios, “I built this” posts with **only an AI image**, expert takes written by chat, AGI psychosis monologues on model forums ... LocalLLaMA’s blunt reply is **“Stop LARPing.”** The hobby community hates AI-generated prop art for a different reason (craft and consent). The slang use hates **fake receipts**.
+
+The counter-move is boring and already in this doc: diff review, named outcomes, stuff staff can run on Tuesday. Proof beats performance. When everyone can generate the costume, the question is who was in it when something broke.
+
 ### Stealth models (the industry kind)
 
 Providers will keep shipping **paid codename models** before the marketing name lands. xAI has done this in Cursor: Sonic became Grok Code Fast, Cheetah another Grok code variant, Polaris-alpha on OpenRouter. The community reverse-engineers them anyway ... speed, system-prompt tells, jailbreak behaviour. “Stealth” does not mean private. It means you are paying to beta-test something the vendor has not branded yet, and your code or data still hits their logs.
@@ -207,6 +215,8 @@ These are next to the list above. Same confidence level: hunches, not forecasts 
 | **Auto mode token burn** | Default Auto on cheap tiers drains quota fast. Community advice: discrete tasks, named models, not autopilot everything. |
 | **Stealth homonym noise** | “Stealth” on Reddit ≠ codename models. Search collides with games, camping, humanizers (StealthWriter), and laptop SKUs. |
 | **Detector evasion arms race** | Humanizer tools vs Turnitin-style detection. Rewording theatre replaces learning; assignment design still the real fix. |
+| **LARP slang vs hobby** | “Stop LARPing” = stop cosplaying expertise. AI images as fake proof. Separate from actual LARP communities. |
+| **AI psychosis reply culture** | Model forums dismiss grandiose AGI posts with “stop LARPing.” Credibility requires receipts, not monologue. |
 
 ---
 
