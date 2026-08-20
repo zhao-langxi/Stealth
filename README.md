@@ -6,7 +6,7 @@ A dated list of where I think AI is going to land hard, written so I can be wron
 
 **Name note:** I grabbed the repo name before the files showed up. In Cursor Discord, “stealth” usually means **stealth models** ... codename releases (Cheetah, Sonic, Polaris) before xAI ships the real Grok name. Different thing. This repo is the foresight scrapbook, not a model or an overlay app.
 
-Reddit search for **stealth** does not resolve to that meaning. You get Splinter Cell threads, stealth camping, game loadouts, and a dozen other communities where “stealth” means **stay unseen**, not **ship under a codename**. Add **stealth ai** and the top hits are worse: **StealthWriter**, **StealthGPT**, Turnitin bypass reviews, “humanizer” score threads ... tools whose whole job is to make generated text pass detectors. Same word, four audiences. Industry insiders reverse-engineer Sonic; students shop for rewriter scores; laptop buyers compare MSI Stealth 16 SKUs. Expect permanent collision if this repo ever needs discoverability ... the name note is load-bearing.
+Reddit search for **stealth** does not resolve to that meaning. You get Splinter Cell threads, stealth camping, game loadouts, and a dozen other communities where “stealth” means **stay unseen**, not **ship under a codename**. Add **stealth ai** and the top hits are worse: **StealthWriter**, **StealthGPT**, Turnitin bypass reviews, “humanizer” score threads ... tools whose whole job is to make generated text pass detectors. **Stealth ai eu** adds a fifth pile: “EU AI law is broken,” privacy + AI Act stack rants, **offline homelab** builds titled “stealth AI,” and still zero codename-model threads. Same word, five audiences. Industry insiders reverse-engineer Sonic; students shop for rewriter scores; homelabbers mean “runs quietly in the rack.” Expect permanent collision if this repo ever needs discoverability ... the name note is load-bearing.
 
 Jade Zhao · Informatics @ Indiana University · class of 2027  
 Last updated: 21 Aug 2026
@@ -137,6 +137,8 @@ The same EU story has a regulatory fork. **Chat Control** (scanning regimes exte
 
 **AI Act** labelling adds another layer: mandatory disclosure on synthetic media, compliance threads in design subs, and fear that Europe regulates display while still under-investing vs Korea on compute. **BuyFromEU** and **eutech** argue both ways ... serious rule-making vs “missed revolution” anxiety. Geoblock-Europe workarounds will show up on generator forums. Serious EU products will bake disclosure into export pipelines instead.
 
+Builders call the **stack broken** when privacy law, AI Act duties, and Chat Control anxiety land on the same web-facing app. r/privacy and r/ArtificialInteligence threads are not anti-EU monoliths ... they are people asking why sovereignty marketing and surveillance policy read as one brand. The practical escape hatch in those scrolls is **offline / homelab LLM**: download weights, stay off the web, call it “stealth” because it never phones home. That is residency by architecture, not by badge.
+
 The same year, WFH chat workers report spending half their shift **proving they are not AI** to suspicious customers. Digital humans cut both ways: users want a person; platforms want automation; humans get treated like bots. Rebrands that kill a name people loved will keep getting ignored in community slang.
 
 Open-weight tinkering stays fun on small quantised models. Production still lives in cloud agents until local models are good enough for handoffs you would sign your name to.
@@ -225,7 +227,8 @@ These are next to the list above. Same confidence level: hunches, not forecasts 
 | **Origin / stack lock-in** | IDE vendor hosting git + agents + models ... portability becomes a deliberate decision, not default. |
 | **EU cost migration** | Builders leave US IDE billing for terminal agents + EU-hosted models when token spend hits hundreds per month. |
 | **Auto mode token burn** | Default Auto on cheap tiers drains quota fast. Community advice: discrete tasks, named models, not autopilot everything. |
-| **Stealth homonym noise** | “Stealth” on Reddit ≠ codename models. Search collides with games, camping, humanizers (StealthWriter), and laptop SKUs. |
+| **Stealth homonym noise** | “Stealth” on Reddit ≠ codename models. Humanizers, homelabs, games, camping, laptop SKUs, EU law rants. |
+| **EU law stack fatigue** | Privacy + AI Act + Chat Control on one product reads “broken” to builders. Offline local models as workaround. |
 | **Detector evasion arms race** | Humanizer tools vs Turnitin-style detection. Rewording theatre replaces learning; assignment design still the real fix. |
 | **LARP slang vs hobby** | “Stop LARPing” = stop cosplaying expertise. AI images as fake proof. Separate from actual LARP communities. |
 | **AI psychosis reply culture** | Model forums dismiss grandiose AGI posts with “stop LARPing.” Credibility requires receipts, not monologue. |
