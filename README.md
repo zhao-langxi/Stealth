@@ -111,7 +111,9 @@ AI support bots will keep deflecting until email escalation with a ticket ID bec
 
 A lot of European energy will go into **compliance wrappers**: AI without customer data leaving the region, audit trails, document AI instead of novelty chat. That is necessary and not the same as product innovation. Builders targeting Lusophone Africa, family NAS photo search, condominium platforms in Rust ... care about cost, residency, and maintainability more than headline benchmarks.
 
-**Le Chat** is the consumer face of that EU story ... and Reddit still calls it that on purpose after rebrand whiplash. Users who switched from ChatGPT often cite **fewer fake citations** on research questions and better feel on **translation nuance**. That is trust on sources, not vibes. Some use it to **organise thoughts before therapy** or summarise long transcripts ... aid, not replacement. Rebrands that kill a name people loved will keep getting ignored in community slang.
+**Le Chat** is the consumer face of that EU story ... and Reddit still calls it that on purpose after rebrand whiplash. Users who switched from ChatGPT often cite **fewer fake citations** on research questions and better feel on **translation nuance**. That is trust on sources, not vibes. Some use it to **organise thoughts before therapy** or summarise long transcripts ... aid, not replacement. Email-agent hooks (inbox, draft replies) are the kind of EU productivity feature that feels useful until you ask who holds the OAuth keys.
+
+The same year, WFH chat workers report spending half their shift **proving they are not AI** to suspicious customers. Digital humans cut both ways: users want a person; platforms want automation; humans get treated like bots. Rebrands that kill a name people loved will keep getting ignored in community slang.
 
 Open-weight tinkering stays fun on small quantised models. Production still lives in cloud agents until local models are good enough for handoffs you would sign your name to.
 
@@ -176,6 +178,8 @@ These are next to the list above. Same confidence level: hunches, not forecasts 
 | **Reddit recommendation loops** | “Is X worth it?” threads recycle every pricing change. Answer always hinges on task shape and review habits. |
 | **Le Chat vs rebrand** | EU users keep the old name when the corporate rename feels cringe. Cultural product identity beats generic “AI assistant.” |
 | **Citation trust** | Buy-EU and research users pick models that hallucinate fewer papers. Source reliability becomes consumer marketing. |
+| **Inbox agents** | Read/draft email from chat feels magic; consent and credential scope become the product risk. |
+| **Prove you're human** | Support and WFH chat jobs invert the Turing test. Real people penalised for sounding "too AI." |
 | **False-fixed security** | Agents label findings resolved while exploits remain. Audits will catch vibe-“patched” apps. |
 | **Acquisition churn** | Ownership headlines trigger subscription exits regardless of product quality that week. |
 | **Origin / stack lock-in** | IDE vendor hosting git + agents + models ... portability becomes a deliberate decision, not default. |
