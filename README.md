@@ -109,7 +109,9 @@ AI support bots will keep deflecting until email escalation with a ticket ID bec
 
 ### EU, compliance, and real products
 
-A lot of European energy will go into **compliance wrappers**: AI without customer data leaving the region, audit trails, document AI instead of novelty chat. That is necessary and not the same as product innovation. Builders targeting Lusophone Africa, family NAS photo search, condominium platforms in Rust ... care about cost, residency, and maintainability more than leaderboard screenshots.
+A lot of European energy will go into **compliance wrappers**: AI without customer data leaving the region, audit trails, document AI instead of novelty chat. That is necessary and not the same as product innovation. Builders targeting Lusophone Africa, family NAS photo search, condominium platforms in Rust ... care about cost, residency, and maintainability more than headline benchmarks.
+
+**Le Chat** is the consumer face of that EU story ... and Reddit still calls it that on purpose after rebrand whiplash. Users who switched from ChatGPT often cite **fewer fake citations** on research questions and better feel on **translation nuance**. That is trust on sources, not vibes. Some use it to **organise thoughts before therapy** or summarise long transcripts ... aid, not replacement. Rebrands that kill a name people loved will keep getting ignored in community slang.
 
 Open-weight tinkering stays fun on small quantised models. Production still lives in cloud agents until local models are good enough for handoffs you would sign your name to.
 
@@ -130,6 +132,10 @@ Reddit keeps asking the same question in different wrappers: Cursor or Claude Co
 At ~$20/month the debate is **usage limits**, not feature checklists. People come back when router + Auto + Composer stretch a plan; they leave when frontier models eat the cycle in a weekend. Valuation arguments ($60B and similar) will cite agentic IDE timing and in-product interaction data. Whether that feels fair to a student on a $60 plan is a different conversation.
 
 The “worth coming back in 2026?” posts answer themselves: yes if discrete tasks + daily-driver models fit your workload; no if you expected one sub to replace judgment, sales, and handoff.
+
+**What Reddit actually praises:** integrated toolchain UX, first-party / bundled models for mileage, cloud agents and automations that “just work,” richer file and terminal context, selection-based debug chats. **What Reddit actually warns:** 9-to-5 dev use can burn a lower tier in days; agents that **mark security findings fixed** when they are not; regional plans that lock you to one vendor model; acquisition headlines that make people ask who trains on their keystrokes. **Origin** as git hosting reads as land-grab for the whole developer stack, not just another feature.
+
+Practical Reddit consensus: treat it as **one tool in a kit**, read plan fine print for models + tokens before subscribing, keep a terminal-first or open alternative warm, and accept that much of the difference now is **UI preference** ... IDE panel people vs shell people. None of that removes the verify step.
 
 ---
 
@@ -168,6 +174,11 @@ These are next to the list above. Same confidence level: hunches, not forecasts 
 | **$20 plan math** | IDE bundle vs raw chat sub comes down to included usage and router, not headline features. Limit confusion drives churn posts. |
 | **Valuation vs user anger** | Big-number acquisition headlines vs support loops and quota fine print ... same product, two audiences. |
 | **Reddit recommendation loops** | “Is X worth it?” threads recycle every pricing change. Answer always hinges on task shape and review habits. |
+| **Le Chat vs rebrand** | EU users keep the old name when the corporate rename feels cringe. Cultural product identity beats generic “AI assistant.” |
+| **Citation trust** | Buy-EU and research users pick models that hallucinate fewer papers. Source reliability becomes consumer marketing. |
+| **False-fixed security** | Agents label findings resolved while exploits remain. Audits will catch vibe-“patched” apps. |
+| **Acquisition churn** | Ownership headlines trigger subscription exits regardless of product quality that week. |
+| **Origin / stack lock-in** | IDE vendor hosting git + agents + models ... portability becomes a deliberate decision, not default. |
 
 ---
 
