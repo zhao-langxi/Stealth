@@ -69,6 +69,10 @@ When institutions hire slower and middle work gets automated, more people try to
 
 More serious building happens in Chinese: docs, comments, issues, model prompts, and local tooling that assumes 中文 first. English-only stacks keep looking global while missing where a lot of the work and users already are. Bilingual builders (and models that do not flatten tone into generic English) get an edge that pure English pipelines will keep underestimating.
 
+### Influencers
+
+Creator economies get AI-soaked on every side: script drafts, thumbnails, comments, fake engagement, and synthetic “people” who never filmed a day. Audiences get harder to trust and easier to farm. The people who still matter will be the ones whose face, judgment, and receipts hold up when the feed is full of generated twins. Brands will keep buying reach. The scarce thing becomes proof that a human stood behind the recommendation.
+
 ---
 
 ## Also watching
