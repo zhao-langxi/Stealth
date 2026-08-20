@@ -4,8 +4,10 @@ Not a product. Not a pitch deck.
 
 A dated list of where I think AI is going to land hard, written so I can be wrong in public later. If something here ages badly, that is the point.
 
+**Name note:** I grabbed the repo name before the files showed up. In Cursor Discord, “stealth” usually means **stealth models** ... codename releases (Cheetah, Sonic, Polaris) before xAI ships the real Grok name. Different thing. This repo is the foresight scrapbook, not a model or an overlay app.
+
 Jade Zhao · Informatics @ Indiana University · class of 2027  
-Last updated: 19 Aug 2026
+Last updated: 20 Aug 2026
 
 Ship work lives on [jadexzhao](https://jadexzhao.github.io/jadexzhao/). Essays live on [zhao-langxi](https://zhao-langxi.github.io/zhao-langxi/).
 
@@ -57,6 +59,10 @@ Central platforms fail in public, hard, and often enough that “just use the cl
 
 After the novelty wave, hiring swings back toward people who can read a stack trace, own a deploy, and fix what the model hallucinated into production. “AI-native” stops meaning “I never open the file.” It means you can use the tools *and* still be the adult in the room when the generated code is wrong.
 
+The SWE market is not dead. It is noisier. Demos got cheap. Proof got harder. Everyone can ship a first draft; fewer people want to own diffs, click the UI, and ask whether staff can maintain the thing after the agent leaves. Benchmarks with “SWE” in the name will keep multiplying. The bar that still matters in production is messier: can you verify, recover, and hand off without lying about what the system does?
+
+Frontier models also overreach when you already know the spec in detail. That is annoying if you are the SWE in the room. It is helpful if you are not. The split widens: orchestrators who name exact outcomes vs vibe-shippers who accept guess soup.
+
 ### More stuck
 
 More graduates, career-switchers, and mid-level people freeze between tools: too automated to feel skilled, not automated enough to feel safe. Waiting for the market to clarify becomes its own trap. The stuckness is not laziness. It is a missing bridge between tutorials and trusted ownership.
@@ -64,6 +70,8 @@ More graduates, career-switchers, and mid-level people freeze between tools: too
 ### More entrepreneurial
 
 When institutions hire slower and middle work gets automated, more people try to build sideways: tiny products, consulting, campus tools, family-business tech, public-interest builds. Not everyone becomes a founder. More people practise founder habits ... ship small, talk to users, keep the handoff maintainable ... because waiting for a perfect job posting stops working.
+
+Agent tools make **build mode** cheap. A lot of “startups” in Discord are ten apps deep with no GTM half. EU-heavy threads skew toward compliance wrappers (“AI without data leaving the datacenter”) instead of new products. Unfunded founders look for co-devs, not another subscription. The gap is not “can Cursor ship it.” It is “does anyone know it exists, trust it, and pay.” Sales is a different skill from dev. Influencer bumps and barter still matter because discovery did not get easier just because shipping did.
 
 ### Coding in Chinese
 
@@ -74,6 +82,12 @@ Prompting in 中文 can also sharpen the ask. You stop reaching for the same Eng
 ### Influencers
 
 Creator economies get AI-soaked on every side: script drafts, thumbnails, comments, fake engagement, and synthetic “people” who never filmed a day. Audiences get harder to trust and easier to farm. The people who still matter will be the ones whose face, judgment, and receipts hold up when the feed is full of generated twins. Brands will keep buying reach. The scarce thing becomes proof that a human stood behind the recommendation.
+
+### Stealth models (the industry kind)
+
+Providers will keep shipping **paid codename models** before the marketing name lands. xAI has done this in Cursor: Sonic became Grok Code Fast, Cheetah another Grok code variant, Polaris-alpha on OpenRouter. The community reverse-engineers them anyway ... speed, system-prompt tells, jailbreak behaviour. “Stealth” does not mean private. It means you are paying to beta-test something the vendor has not branded yet, and your code or data still hits their logs.
+
+That pattern will spread: fast anonymous models for simple passes, official names once the benchmark screenshot is ready. Fine for disposable tasks. Risky if you treat “I do not know which model” as “nobody saw this.” Auto-routing through stealth models will keep privacy-paranoid builders nervous for good reason.
 
 ---
 
@@ -92,6 +106,10 @@ These are next to the list above. Same confidence level: hunches, not forecasts 
 | **Creative labour and credit** | Training data, likeness, and style theft stay contested. “Inspired by” will not satisfy people whose work trained the model. |
 | **Local / offline AI** | Not everyone can or should send life to a cloud. Edge models matter for privacy, cost, and places with bad connectivity. |
 | **Governance theatre** | Policies, watermarks, and safety pages that look complete while product incentives still reward speed over harm reduction. |
+| **SWE-tuned model hype** | Models branded for software engineering will keep underwhelming on real repos while leaderboard screenshots look fine. Terminal tricks and Q&A are not the same as fixing production. |
+| **Verify bottleneck** | Plan and implement get automated first. Manual UI testing, diff review, and “does this survive handoff?” stay human ... and become the expensive step teams skip until something breaks. |
+| **Model overreach** | When the builder already knows what they want, frontier models guess anyway. Discrete tasks with exact outcomes beat “make it better.” |
+| **Stealth model drops** | Codename → rebrand cycles (Sonic → Grok Code Fast, etc.). Community IDs them fast. Paid stealth ≠ private; logs still exist. |
 
 ---
 
