@@ -6,7 +6,7 @@ A dated list of where I think AI is going to land hard, written so I can be wron
 
 **Name note:** I grabbed the repo name before the files showed up. In Cursor Discord, “stealth” usually means **stealth models** ... codename releases (Cheetah, Sonic, Polaris) before xAI ships the real Grok name. Different thing. This repo is the foresight scrapbook, not a model or an overlay app.
 
-Reddit search for **stealth** does not resolve to that meaning. You get Splinter Cell threads, stealth camping, game loadouts, and a dozen other communities where “stealth” means **stay unseen**, not **ship under a codename**. Same word, three audiences. Industry insiders reverse-engineer Sonic; everyone else is playing a different game. Expect permanent collision if this repo ever needs discoverability ... the name note is load-bearing.
+Reddit search for **stealth** does not resolve to that meaning. You get Splinter Cell threads, stealth camping, game loadouts, and a dozen other communities where “stealth” means **stay unseen**, not **ship under a codename**. Add **stealth ai** and the top hits are worse: **StealthWriter**, **StealthGPT**, Turnitin bypass reviews, “humanizer” score threads ... tools whose whole job is to make generated text pass detectors. Same word, four audiences. Industry insiders reverse-engineer Sonic; students shop for rewriter scores; laptop buyers compare MSI Stealth 16 SKUs. Expect permanent collision if this repo ever needs discoverability ... the name note is load-bearing.
 
 Jade Zhao · Informatics @ Indiana University · class of 2027  
 Last updated: 21 Aug 2026
@@ -35,7 +35,7 @@ A lot of what we call laziness is “I do not want to do the boring middle.” A
 
 ### Coursework
 
-Students will use AI on almost everything that can be pasted into a box. Schools will oscillate between ban, detect, and redesign. The lasting shift is assignment design: less “produce this artefact,” more “show your judgment, your sources, and what you changed.” Detection alone will not save a syllabus that still asks for a 1998 essay.
+Students will use AI on almost everything that can be pasted into a box. Schools will oscillate between ban, detect, and redesign. A parallel market sells **“stealth” humanizers** that promise to beat Turnitin ... basic rewording that sometimes works, often does not, and teaches the wrong skill either way. The lasting shift is assignment design: less “produce this artefact,” more “show your judgment, your sources, and what you changed.” Detection alone will not save a syllabus that still asks for a 1998 essay.
 
 ### Writing
 
@@ -205,7 +205,8 @@ These are next to the list above. Same confidence level: hunches, not forecasts 
 | **Origin / stack lock-in** | IDE vendor hosting git + agents + models ... portability becomes a deliberate decision, not default. |
 | **EU cost migration** | Builders leave US IDE billing for terminal agents + EU-hosted models when token spend hits hundreds per month. |
 | **Auto mode token burn** | Default Auto on cheap tiers drains quota fast. Community advice: discrete tasks, named models, not autopilot everything. |
-| **Stealth homonym noise** | “Stealth” on Reddit ≠ codename models. Search and naming collide with games, camping, and unrelated communities. |
+| **Stealth homonym noise** | “Stealth” on Reddit ≠ codename models. Search collides with games, camping, humanizers (StealthWriter), and laptop SKUs. |
+| **Detector evasion arms race** | Humanizer tools vs Turnitin-style detection. Rewording theatre replaces learning; assignment design still the real fix. |
 
 ---
 
