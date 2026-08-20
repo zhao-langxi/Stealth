@@ -6,6 +6,8 @@ A dated list of where I think AI is going to land hard, written so I can be wron
 
 **Name note:** I grabbed the repo name before the files showed up. In Cursor Discord, “stealth” usually means **stealth models** ... codename releases (Cheetah, Sonic, Polaris) before xAI ships the real Grok name. Different thing. This repo is the foresight scrapbook, not a model or an overlay app.
 
+Reddit search for **stealth** does not resolve to that meaning. You get Splinter Cell threads, stealth camping, game loadouts, and a dozen other communities where “stealth” means **stay unseen**, not **ship under a codename**. Same word, three audiences. Industry insiders reverse-engineer Sonic; everyone else is playing a different game. Expect permanent collision if this repo ever needs discoverability ... the name note is load-bearing.
+
 Jade Zhao · Informatics @ Indiana University · class of 2027  
 Last updated: 21 Aug 2026
 
@@ -203,6 +205,7 @@ These are next to the list above. Same confidence level: hunches, not forecasts 
 | **Origin / stack lock-in** | IDE vendor hosting git + agents + models ... portability becomes a deliberate decision, not default. |
 | **EU cost migration** | Builders leave US IDE billing for terminal agents + EU-hosted models when token spend hits hundreds per month. |
 | **Auto mode token burn** | Default Auto on cheap tiers drains quota fast. Community advice: discrete tasks, named models, not autopilot everything. |
+| **Stealth homonym noise** | “Stealth” on Reddit ≠ codename models. Search and naming collide with games, camping, and unrelated communities. |
 
 ---
 
