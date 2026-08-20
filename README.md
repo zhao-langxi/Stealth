@@ -117,6 +117,8 @@ The same year, WFH chat workers report spending half their shift **proving they 
 
 Open-weight tinkering stays fun on small quantised models. Production still lives in cloud agents until local models are good enough for handoffs you would sign your name to.
 
+EU and Lusophone builders will keep **migrating off US IDE stacks** when token math stops making sense ... Reddit posts of $600/month in Cursor tokens and switching to terminal agents to save hundreds are not edge cases. **Auto mode** on a $20 plan can burn tens of millions of tokens in ten days; community advice is to treat Auto as last resort, not default. Cost and residency push people toward Mistral, GLM hosted in EU, or Claude Code with their own MCP setup even when the IDE UX was fine.
+
 ### Platforms eat the stack
 
 Hosting moves inward: **Origin**-style git inside the IDE vendor, cloud agents with pre-warmed builds, plugins bundling MCP and skills. Acquisitions (SpaceX-shaped headlines) will keep blurring “who owns the model, the editor, the host, and the bot.” Convenience rises. Exit and portability get harder to reason about.
@@ -131,7 +133,7 @@ Slop output is usually slop input: vague tasks, bloated skills, no review step. 
 
 Reddit keeps asking the same question in different wrappers: Cursor or Claude Code or a $20 chat sub? The split is not “same tools.” **IDE agents** won on plan → review → execute inside a repo people already live in. **Terminal agents** won on long autonomous passes and harness people who think in shell first. Neither replaces diff review.
 
-At ~$20/month the debate is **usage limits**, not feature checklists. People come back when router + Auto + Composer stretch a plan; they leave when frontier models eat the cycle in a weekend. Valuation arguments ($60B and similar) will cite agentic IDE timing and in-product interaction data. Whether that feels fair to a student on a $60 plan is a different conversation.
+At ~$20/month the debate is **usage limits**, not feature checklists. People come back when router + Composer/Grok stretch a plan; they leave when **Auto** or frontier models eat half the cycle in ten days (62M tokens is a real post). Valuation arguments ($60B and similar) will cite agentic IDE timing and in-product interaction data. Acquisition threads ask whether the buyer wanted the product or the **interaction log**. Whether that feels fair to a student on a $60 plan is a different conversation.
 
 The “worth coming back in 2026?” posts answer themselves: yes if discrete tasks + daily-driver models fit your workload; no if you expected one sub to replace judgment, sales, and handoff.
 
@@ -183,6 +185,8 @@ These are next to the list above. Same confidence level: hunches, not forecasts 
 | **False-fixed security** | Agents label findings resolved while exploits remain. Audits will catch vibe-“patched” apps. |
 | **Acquisition churn** | Ownership headlines trigger subscription exits regardless of product quality that week. |
 | **Origin / stack lock-in** | IDE vendor hosting git + agents + models ... portability becomes a deliberate decision, not default. |
+| **EU cost migration** | Builders leave US IDE billing for terminal agents + EU-hosted models when token spend hits hundreds per month. |
+| **Auto mode token burn** | Default Auto on cheap tiers drains quota fast. Community advice: discrete tasks, named models, not autopilot everything. |
 
 ---
 
